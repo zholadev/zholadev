@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zholadev
-- 👀 I’m interested in Music, Coding, Traveling, JS, Mobile Development
+- 👀 I’m interested in Music, Coding, Web App, Web Sites and Mobile Development
 - 🌱 I’m currently learning fullstack js and other interesting technologies
 
 <!---
